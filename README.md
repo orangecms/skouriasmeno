@@ -53,3 +53,4 @@ skouriasmeno::skouriasmeno! {
 - Corsican: [rughjina](https://github.com/aldebaranzbradaradjan/rughjina)
 - Indonesian: [karat](https://github.com/annurdien/karat)
 - Lithuanian: [rūdys](https://github.com/TruncatedDinosour/rudys)
+- Swiss: [roeschti](https://github.com/Georg-code/roeschti)
