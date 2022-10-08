@@ -124,6 +124,7 @@ Please don't introduce swear words, though: we will not excuse your French.
 - Lithuanian: [rūdys](https://github.com/TruncatedDinosour/rudys)
 - Greek: [skouriasmeno](https://github.com/devlocalhost/skouriasmeno)
 - Thai: [sanim (สนิม)](https://github.com/korewaChino/sanim)
+- Swiss: [roeschti](https://github.com/Georg-code/roeschti)
 
 ## un grand merci
 
